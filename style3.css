@@ -1,0 +1,25 @@
+.title {
+   background-image: linear-gradient(green, yellow) ;
+    background-size: 300%;
+    animation: bg 3s infinite alternate;
+    font-size: 3rem;
+    color: transparent;
+    background-clip: text;
+    -webkit-background-clip: text;    
+}
+
+
+@media only screen and (max-width: 1023px) {
+    .title {
+        font-size: 2rem;
+   }
+}
+
+@media only screen and (max-width: 479px) {
+    .title {
+        font-size: 1rem;
+   }
+}
+
+
+

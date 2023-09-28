@@ -1,0 +1,17 @@
+.element {
+    width: 200px;
+    height: 200px;
+    margin: 32px 32px;
+    border: 1px solid gray;
+    box-shadow: 16px -16px 32px;
+    
+}
+
+.element1 {
+    width: 200px;
+    height: 200px;
+    margin: 32px 32px;
+    border: 1px solid gray;
+    box-shadow: -16px 16px 32px;
+    
+}

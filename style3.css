@@ -9,7 +9,7 @@
 }
 
 
-@media only screen and (max-width: 1023px) {
+@media only screen and (min-width: 1023px) {
     .title {
         font-size: 2rem;
    }
@@ -17,7 +17,7 @@
 
 @media only screen and (max-width: 479px) {
     .title {
-        font-size: 1rem;
+        font-size: 3rem;
    }
 }
 
